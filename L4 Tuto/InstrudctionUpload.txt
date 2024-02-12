@@ -1,14 +1,15 @@
 French Version : 
 Pour mettre les fichier, il faut être connecté sur GitHub. 
-- Cliquer sur le lien https://github.com/BigData2024/BDA.git
-- Chercher son nom dans les dossier ou sur la barre de recherche dans "Go to file"
-- Arriver dans L0_Prenomde l'étudiant : chercher sur la page "Add file"
-- Cliquer dessus et fait "Upload file"
+- Cliqué sur le lien https://github.com/BigData2024/BDA.git
+- Cherché son nom dans les dossier ou sur la barre de recherche dans "Go to file"
+- Arrivé dans L0_Prenomde l'étudiant : chercher sur la page "Add file"
+- Cliqué dessus et fait "Upload file"
 !Cela ne fonctionne pas si (on a pas accepté l'invitation de l'accès : mettre le mail sur google drive, et si on est pas connecté) !
 - Ensuite faire glisser les documents dans la partie dédier ou cliquer dans "choose your file" (les documents doivent être en pdf ) puis cliquer en bas sur "Commit Changes"
-- Dernier étape faire Yes dans le google Doc. 
+- Dernier étape faire Yes dans le google Sheet. 
 
-!Bien vérifier a l'avance si il y a pas des article similaire dans les autre L0 pour éviter les doublons.! 
+!Bien vérifier a l'avance s'il y a pas des articles similaire dans les autres L0 pour éviter les doublons, s'il vous plait.!
+En cas de doublons d'une autre personne, dans la partie "Checklist" du Google Sheet écrivez votre nom et prénom si pasmis puis préciser avec qui vous avez un doublons + article. Si le check n'a pas encore été fait pour vous. Contacter un L4 si nécessaire. 
 
 English Version 
 To upload the files, you need to be logged in to GitHub. 
@@ -18,6 +19,7 @@ To upload the files, you need to be logged in to GitHub.
 - Click on it and do "Upload file"
 ! It doesn't work if (we didn't accept the invitation to access: put the email on google drive, and if we're not connected)!
 - Then drag the documents into the dedicate section or click on "choose your file" (the documents must be in pdf) and then click on "Commit Changes" at the bottom
-- Last step: do Yes in the Google Doc. 
+- Last step: do Yes in the Google Sheet. 
 
-! Check in advance if there are any similar items in the other L0 to avoid duplicates! 
+! Be sure to check in advance if there are any similar items in the other L0s to avoid duplicates, please!
+In case of duplicates of another person, in the "Checklist" of Google Sheet write your name and surname if not included, then specify with whom you have a duplicate + article. If the check has not yet been done for you. Contact an L4 if necessary. 
