@@ -1,0 +1,23 @@
+French Version : 
+Pour mettre les fichier, il faut être connecté sur GitHub. 
+- Cliquer sur le lien https://github.com/BigData2024/BDA.git
+- Chercher son nom dans les dossier ou sur la barre de recherche dans "Go to file"
+- Arriver dans L0_Prenomde l'étudiant : chercher sur la page "Add file"
+- Cliquer dessus et fait "Upload file"
+!Cela ne fonctionne pas si (on a pas accepté l'invitation de l'accès : mettre le mail sur google drive, et si on est pas connecté) !
+- Ensuite faire glisser les documents dans la partie dédier ou cliquer dans "choose your file" (les documents doivent être en pdf ) puis cliquer en bas sur "Commit Changes"
+- Dernier étape faire Yes dans le google Doc. 
+
+!Bien vérifier a l'avance si il y a pas des article similaire dans les autre L0 pour éviter les doublons.! 
+
+English Version 
+To upload the files, you need to be logged in to GitHub. 
+- Click on the link https://github.com/BigData2024/BDA.git
+- Search for their name in the folder or on the search bar in "Go to file"
+- Arrive in the student's L0_Prenomde: search on the "Add file" page
+- Click on it and do "Upload file"
+! It doesn't work if (we didn't accept the invitation to access: put the email on google drive, and if we're not connected)!
+- Then drag the documents into the dedicate section or click on "choose your file" (the documents must be in pdf) and then click on "Commit Changes" at the bottom
+- Last step: do Yes in the Google Doc. 
+
+! Check in advance if there are any similar items in the other L0 to avoid duplicates! 
