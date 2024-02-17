@@ -1,2 +1,2 @@
 The paper assessing the business impact etc. seems to be not appropriate. Please consider replacing it. Check for papers containing the terms business process modeling + AI + ML etc.
-The paper has been changed a few days ago, please validate 
+The paper has been changed a few days ago, please check for validation 
